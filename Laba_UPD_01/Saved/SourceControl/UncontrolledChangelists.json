@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/BabciaZBalkonu.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/BP_HeadFollow.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/ABP_.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/ABP_HeadFollow.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/BP_FullFollow.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7O/ESXEIX0LITO0EDWNPX761U.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Z2/R5KIF3K68CU6CK6D76QPCD.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0J/KW4H9T8E7XNZBGXJDUULIR.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/BP_HeadFollow2.uasset",
+				"B:/Users/patry/OneDrive/Dokumenty/Unreal Projects/Laba_UPD_01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0E/WDLJND91WR6BAVIL0O6XPM.uasset"
+			]
+		}
+	]
+}
